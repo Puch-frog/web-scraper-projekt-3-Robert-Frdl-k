@@ -7,7 +7,7 @@ Jak na to?
 
 Před spuštěním projektu si nainstalujte potřebné knihovny uvedené v souboru requirements.txt. Skript spustite z příkazového řádku pomocí následujícího příkazu:
 
-python volby17 RK py <odkaz_uzemniho_celku> <vystupni_soubor>
+python main RK py <odkaz_uzemniho_celku> <vystupni_soubor>
 
 Výstupem bude soubor .csv s výsledky voleb pro daný okres.
 
